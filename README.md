@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 <h3> Open Your Termux App 😎</h3>
 <h4> Fallow This Commands 🔥</h4>
 <p><b>
