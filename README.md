@@ -7,7 +7,7 @@
   apt-get install python -y <br>
   clear<br>
   apt install git -y<br>
-  git clone https://github.com/sachindusahan/termux-code-editor.git
+  git clone https://github.com/sachindusahan/termux-code-editors.git
   <br> cd termux-code-editor <br>
   python termux-code-editors.py
   🔥💧
